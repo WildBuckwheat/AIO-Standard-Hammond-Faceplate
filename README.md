@@ -39,7 +39,7 @@ Upload the gerber files to your board manufacturer and double check that the sel
 
 # Special Thanks
 
-Special thanks to Andy Fahnestock for ordering the first batch and for providing the images and feedback. I do not have an AIO Standard to test with, Andy took all the risk and ordered the first ever batch of v1.0.
+Special thanks to Andy Fahnestock for ordering the first batch and for providing the images and feedback. I do not have an AIO Standard to test with, Andy took all the risk and ordered the first ever batch of v1.0. Another special thanks for Vili for providing the logo and font used in the silkscreen. And of course a special thanks to Brian Tee and everyone else involved for creating AgOpenGPS and the All-in-One boards.
 
 # License
 
