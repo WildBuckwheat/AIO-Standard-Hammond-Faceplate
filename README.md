@@ -9,10 +9,10 @@ This faceplate does not fit the AIO Micro, it only fits the AIO Standard.
 The real life pictures shown are of v1.0, the gerber files are of v1.1. Between versions the silkscreen changed slightly. The title moved to the top of the faceplate where it is more visible. The AOG logo was incorporated into the title. The gerber previews are of v1.1.
 
 
-<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" height="350">
-<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Back_Mounted.jpg" height="350">
-<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" width="550">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Back_Mounted.jpg" width="550">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" width="150">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" width="150">
 
 
 # Features
