@@ -11,8 +11,8 @@ The real life pictures shown are of v1.0, the gerber files are of v1.1. Between 
 
 <img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" height="350">
 <img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Back_Mounted.jpg" height="350">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="150">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="150">
 
 
 # Features
@@ -43,4 +43,4 @@ Special thanks to Andy Fahnestock for ordering the first batch and for providing
 
 # License
 
-This project is licensed CERN-OHL-S V2.0
+This project is licensed CERN-OHL-S V2.0. View the LICENSE.MD for further details.
