@@ -10,6 +10,8 @@ The real life pictures shown are of v1.0, the gerber files are of v1.1. Between 
 
 
 <img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Front_Mounted.jpg" width="550">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Front_Mounted2.jpg" width="550">
+<img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Front_Mounted3.jpg" width="550">
 <img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Back_Mounted.jpg" width="550">
 <img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" width="550">
 <img src="https://github.com/WildBuckwheat/AIO-Standard-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" width="550">
