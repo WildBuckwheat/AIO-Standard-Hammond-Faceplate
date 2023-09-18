@@ -37,7 +37,7 @@ The hammond box uses 4x #6-3/8" screws to attach the faceplate. Countersunk scre
 
 # Ordering
 
-Upload the gerber files to your board manufacturer and double check that the selected PCB is 1.6mm thickness. 1.6mm is the default thickness of most board manufacturers. If ordering from JLCPCB, you should set "Remove Order Number" to "Specify a Location." That will place the order number on the JLCJLCJLCJLC placeholder.
+Upload the gerber files to your board manufacturer and double check that the selected PCB is 1.6mm thickness. 1.6mm is the default thickness of most board manufacturers. If ordering from JLCPCB, you should set "Remove Order Number" to "Specify a Location." That will place the order number on the JLCJLCJLCJLC placeholder. You will probably want to change the default PCB colour to black.
 
 # Special Thanks
 
